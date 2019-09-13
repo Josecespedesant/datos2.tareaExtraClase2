@@ -6,6 +6,7 @@
 #include "Observer/Headers/TrafficLight.h"
 #include "time.h"
 
+
 int main() {
 
     TrafficLight semaforo;
